@@ -5,6 +5,8 @@ public class DigitoVerificador {
     
    private int DNI;    // LO DEFINÍ COMO INT PORQUE ENTRABA EN CONFICTO PARA SACAR EL RESTO Y USAR ESE NUMERO COMO POSICION EN EL ARRAY
    private char letra;
+   
+   private int variableQueNoSirve; //esto es solo para ver lo de los commit de gig hub
 
     public DigitoVerificador() {
     }
